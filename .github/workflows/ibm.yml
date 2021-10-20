@@ -18,7 +18,7 @@ env:
   ICR_NAMESPACE: ${{ secrets.ICR_NAMESPACE }}
   REGISTRY_HOSTNAME: de.icr.io
   IMAGE_NAME: vuejs-app
-  IKS_CLUSTER: c5nbgqsf09538ti46umg
+  IKS_CLUSTER: c5nulo1f04v0nuou5n00
   DEPLOYMENT_NAME: vuejs-app
   PORT: 8080
 
